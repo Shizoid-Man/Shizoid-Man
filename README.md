@@ -1,0 +1,6 @@
+-  Rudy Kreutzer aka @Shizoid-Man
+-  🇨🇦 Canadian 🇨🇦
+-  Freshmen student at the Univercity of Manitoba studying computer science
+-  Java, lua, C#, html
+-  mostly know java but have done small projects in C#, lua, and html
+-  Discord: schizoidman.
